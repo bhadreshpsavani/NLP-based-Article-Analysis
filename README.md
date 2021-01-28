@@ -7,7 +7,7 @@ In this project we will build an NLP system to do two task:
 2. Article Ranking System
 
 ## 1. Domain-Specific Keyword/Topic/Tag Extraction System:
-**Given an Article if user ask a query we should return most relavent Tags/Keyword/Topic present in the Article based on Query**
+Objective: **Given an Article if user ask a query we should return most relavent Tags/Keyword/Topic present in the Article based on Query**
 
 ## 2. Article Ranking System:
-**Given a Query and List of Articles return Top 5 relavent articles according to Query**
+Objective: **Given a Query and List of Articles return Top 5 relavent articles according to Query**
